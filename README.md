@@ -26,4 +26,7 @@ Technologies Used
 How to Run
 	1.	Clone the repository or download the .java files
 	2.	Open in any IDE (IntelliJ, Eclipse, VS Code) or use terminal
-	3.	Compile the program:
+	3.	Compile the program using main.java file
+
+ 
+
